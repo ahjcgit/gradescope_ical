@@ -1,14 +1,4 @@
 {
-  "25F-COM SCI-217A-LEC-1": [
-    {
-      "title": "Homework 1",
-      "course": "25F-COM SCI-217A-LEC-1",
-      "dueDate": "20251008T235900Z",
-      "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1154414",
-      "submitted": false
-    }
-  ],
   "25F-EC ENGR-209AS-LEC-1": [
     {
       "title": "pset 0",
@@ -50,24 +40,6 @@
       "dueDate": "20251014T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1148576",
-      "submitted": false
-    }
-  ],
-  "25F-EC ENGR-236A-LEC-1": [
-    {
-      "title": "Homework 1",
-      "course": "25F-EC ENGR-236A-LEC-1",
-      "dueDate": "20251009T190000Z",
-      "lateDueDate": "20251009T200000Z",
-      "link": "https://www.gradescope.com/courses/1151120",
-      "submitted": false
-    },
-    {
-      "title": "Homework 2",
-      "course": "25F-EC ENGR-236A-LEC-1",
-      "dueDate": "20251020T090000Z",
-      "lateDueDate": "20251020T100000Z",
-      "link": "https://www.gradescope.com/courses/1151120",
       "submitted": false
     }
   ]

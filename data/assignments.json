@@ -29,8 +29,8 @@
       "course": "25F-EC ENGR-209AS-LEC-1",
       "dueDate": "20251014T090000Z",
       "lateDueDate": "20251216T090000Z",
-      "link": "https://www.gradescope.com/courses/1145489",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1145489/assignments/6965011/submissions/357931351",
+      "submitted": true
     }
   ],
   "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80": [
@@ -46,6 +46,14 @@
       "title": "Homework 2",
       "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
       "dueDate": "20251014T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1148576",
+      "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
+      "dueDate": "20251021T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1148576",
       "submitted": false

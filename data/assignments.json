@@ -81,6 +81,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1148576/assignments/6991652/submissions/363726574",
       "submitted": true
+    },
+    {
+      "title": "Midterm Exam",
+      "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
+      "dueDate": "20251101T235900Z",
+      "lateDueDate": "20251102T235900Z",
+      "link": "https://www.gradescope.com/courses/1148576/assignments/7071180/submissions/363934795",
+      "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
+      "dueDate": "20251109T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1148576",
+      "submitted": false
     }
   ]
 }

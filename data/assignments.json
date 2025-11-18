@@ -71,6 +71,14 @@
       "lateDueDate": "20251216T090000Z",
       "link": "https://www.gradescope.com/courses/1145489",
       "submitted": false
+    },
+    {
+      "title": "pset9",
+      "course": "25F-EC ENGR-209AS-LEC-1",
+      "dueDate": "20251125T090000Z",
+      "lateDueDate": "20251216T090000Z",
+      "link": "https://www.gradescope.com/courses/1145489",
+      "submitted": false
     }
   ],
   "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80": [
@@ -135,8 +143,8 @@
       "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
       "dueDate": "20251117T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1148576",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1148576/assignments/7136937/submissions/370798559",
+      "submitted": true
     },
     {
       "title": "Homework 7",

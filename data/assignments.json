@@ -153,6 +153,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1148576",
       "submitted": false
+    },
+    {
+      "title": "Homework 8",
+      "course": "25F-EC ENGR-231A-LEC-1 / 25F-EC ENGR-231A-LEC-80",
+      "dueDate": "20251204T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1148576",
+      "submitted": false
     }
   ]
 }

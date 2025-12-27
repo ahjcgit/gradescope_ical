@@ -3,6 +3,8 @@
 
 name: Gradescope iCal Integration
 
+permissions:
+  contents: write
 
 on: 
   push:

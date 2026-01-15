@@ -1,5 +1,14 @@
 {
-  "26W-EC ENGR-219-LEC-1": [],
+  "26W-EC ENGR-219-LEC-1": [
+    {
+      "title": "Project 1",
+      "course": "26W-EC ENGR-219-LEC-1",
+      "dueDate": "20260123T235900Z",
+      "lateDueDate": "20260125T235900Z",
+      "link": "https://www.gradescope.com/courses/1207596",
+      "submitted": false
+    }
+  ],
   "26W-EC ENGR-M214A-LEC-1 / 26W-BIOENGR-M214A-LEC-1": [
     {
       "title": "Homework 1",

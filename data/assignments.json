@@ -27,7 +27,24 @@
       "submitted": false
     }
   ],
-  "ECE 209AS": [],
+  "ECE 209AS": [
+    {
+      "title": "Assgnment 1",
+      "course": "ECE 209AS",
+      "dueDate": "20260204T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    },
+    {
+      "title": "Group introduction presentation slides",
+      "course": "ECE 209AS",
+      "dueDate": "20260126T150000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    }
+  ],
   "ECE C147A/C247A Winter 2026": [
     {
       "title": "Homework 1",

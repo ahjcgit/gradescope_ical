@@ -33,6 +33,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1215664",
       "submitted": false
+    },
+    {
+      "title": "Homework 4",
+      "course": "26W-EC ENGR-M214A-LEC-1 / 26W-BIOENGR-M214A-LEC-1",
+      "dueDate": "20260204T235900Z",
+      "lateDueDate": "20260205T235900Z",
+      "link": "https://www.gradescope.com/courses/1215664",
+      "submitted": false
     }
   ],
   "ECE 209AS": [

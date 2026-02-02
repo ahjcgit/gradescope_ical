@@ -77,6 +77,14 @@
       "lateDueDate": "20260128T235900Z",
       "link": "https://www.gradescope.com/courses/1211407/assignments/7516072/submissions/383564587",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "ECE C147A/C247A Winter 2026",
+      "dueDate": "20260206T235900Z",
+      "lateDueDate": "20260208T235900Z",
+      "link": "https://www.gradescope.com/courses/1211407",
+      "submitted": false
     }
   ]
 }

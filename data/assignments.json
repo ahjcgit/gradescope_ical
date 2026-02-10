@@ -59,6 +59,30 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1208908/assignments/7502786/submissions/383005029",
       "submitted": true
+    },
+    {
+      "title": "Midterm report presentation",
+      "course": "ECE 209AS",
+      "dueDate": "20260218T120000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    },
+    {
+      "title": "midterm report",
+      "course": "ECE 209AS",
+      "dueDate": "20260218T120000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    },
+    {
+      "title": "individual project midterm report",
+      "course": "ECE 209AS",
+      "dueDate": "20260218T120000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
     }
   ],
   "ECE C147A/C247A Winter 2026": [

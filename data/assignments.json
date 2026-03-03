@@ -107,6 +107,30 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1208908/assignments/7690139/submissions/394334289",
       "submitted": true
+    },
+    {
+      "title": "Group Project: Final Presentation Slides & Recording",
+      "course": "ECE 209AS",
+      "dueDate": "20260311T130000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    },
+    {
+      "title": "Group Project - Final Report",
+      "course": "ECE 209AS",
+      "dueDate": "20260318T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
+    },
+    {
+      "title": "individual Project: Final Report",
+      "course": "ECE 209AS",
+      "dueDate": "20260318T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1208908",
+      "submitted": false
     }
   ],
   "ECE C147A/C247A Winter 2026": [

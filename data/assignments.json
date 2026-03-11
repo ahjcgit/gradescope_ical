@@ -65,6 +65,30 @@
       "lateDueDate": "20260311T235900Z",
       "link": "https://www.gradescope.com/courses/1215664",
       "submitted": false
+    },
+    {
+      "title": "Group Project - Code",
+      "course": "26W-EC ENGR-M214A-LEC-1 / 26W-BIOENGR-M214A-LEC-1",
+      "dueDate": "20260311T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1215664/assignments/7814857/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Group Project - Final Report",
+      "course": "26W-EC ENGR-M214A-LEC-1 / 26W-BIOENGR-M214A-LEC-1",
+      "dueDate": "20260316T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1215664",
+      "submitted": false
+    },
+    {
+      "title": "Group Project - Final Presentation Slides",
+      "course": "26W-EC ENGR-M214A-LEC-1 / 26W-BIOENGR-M214A-LEC-1",
+      "dueDate": "20260311T100000Z",
+      "lateDueDate": "20260311T120000Z",
+      "link": "https://www.gradescope.com/courses/1215664",
+      "submitted": false
     }
   ],
   "ECE 209AS": [
